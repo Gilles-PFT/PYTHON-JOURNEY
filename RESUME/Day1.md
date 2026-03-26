@@ -14,3 +14,21 @@ _Concatenation Syntaxe_: **variable = "This is a boy" + " and this is a girl"**
 
 - I used the _type()_ function to give the data type of a 
 variable.
+
+## Section3: First operation on strings
+I learned:
+- Slicing using indexing.
+- That in a string, indexing starts at 0 i.e. the first letter of the string has the index[0].
+- How to use the _len()_ function to know the lenght of the string
+
+## Section4: Second operation 
+I learned:
+- Common methods applied to strings like _.strip(),.replace(x,y)...etc_
+- How to determine the presence of a character in a string using the **if** and **in** functions
+
+## Section5: List
+I learned:
+- How to loop through a string with the **for** loop
+- Common methods applied to lists like _.append(),.remove()...etc_
+
+###### END OF DAY ######
